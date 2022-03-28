@@ -2,4 +2,5 @@ code/*.json
 code/config.py
 code/__pycache__
 .DS_Store
+.idea
 venv
